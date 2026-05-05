@@ -46,8 +46,7 @@
 
 | 設定頁面 | 1×2 小工具 | 完整車次頁 |
 |:---:|:---:|:---:|
-| <img src="images/1.png" width="250"> | <img src="images/2.png" width="250"> | <img src="images/3.png" width="250"> |
-
+| <img src="images/1.png" width="300"> | <img src="images/2.png" width="300"> | <img src="images/3.png" width="300"> |
 ---
 
 ## 📲 安裝方式
