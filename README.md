@@ -40,6 +40,9 @@
 
 ---
 
+
+---
+
 ## 📸 截圖預覽
 
 | 設定頁面 | 1×2 小工具 | 完整車次頁 |
@@ -48,12 +51,14 @@
 
 ---
 
+---
+
 ## 📲 安裝方式
 
 ### 方法一：直接下載 APK（推薦）
 
 1. 前往 [Releases 頁面](https://github.com/blues32767/tw-train-desktop-widget/releases)
-2. 下載最新版本的 `app-release.apk`
+2. 下載最新版本的 `tw-train-desktop-widget-202605051830.apk`
 3. 在 Android 手機上允許「安裝未知來源應用程式」
 4. 點擊 APK 檔案完成安裝
 
@@ -62,7 +67,11 @@
 
 ### 方法二：從 Google Play 下載（規劃中）
 
-Google Play 上架審核中，敬請期待。
+Google Play 上架要 25美元，但可能沒人用，上架可能上辛酸的，所以只好等好心人贊助。
+
+**💖 支持開發者維護：**<br>
+<a href="https://www.buymeacoffee.com/blues32767" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" height="60"></a>
+
 
 ---
 
@@ -116,7 +125,6 @@ Google Play 上架審核中，敬請期待。
 ## 🔧 開發者資訊
 
 - **開發者**：blues32767
-- **聯絡信箱**：s9021413@gmail.com
 - **開發語言**：Kotlin
 - **最低支援版本**：Android 8.0（API 26）
 - **目標版本**：Android 15（API 36）
@@ -143,10 +151,9 @@ Google Play 上架審核中，敬請期待。
 
 如有 Bug 或功能建議，歡迎：
 - 在 [GitHub Issues](https://github.com/blues32767/tw-train-desktop-widget/issues) 回報
-- 直接寄信至 s9021413@gmail.com
 
 ---
 
 *OOOI 蝦咪🦐系愛 ❓*  
 *你看我的 眼神 👀 怎麼這麼 可愛 😍*  
-*～ 芒果醬樂團《我喜歡你》～*
+*～ 《我喜歡你》～*
