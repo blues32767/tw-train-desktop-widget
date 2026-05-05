@@ -1,10 +1,6 @@
 # 🚆 台鐵｜高鐵 桌面時刻小工具
 
 <p align="center">
-  <img src="docs/screenshots/icon.png" alt="App Icon" width="120" />
-</p>
-
-<p align="center">
   <a href="https://github.com/blues32767/tw-train-desktop-widget/releases">
     <img src="https://img.shields.io/github/v/release/blues32767/tw-train-desktop-widget?label=最新版本&color=090980" />
   </a>
