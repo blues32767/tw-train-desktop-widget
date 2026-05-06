@@ -54,7 +54,7 @@
 ### 方法一：直接下載 APK（推薦）
 
 1. 前往 [Releases 頁面](https://github.com/blues32767/tw-train-desktop-widget/releases)
-2. 下載最新版本的 `tw-train-desktop-widget-202605051830.apk`
+2. 下載最新版本的 `[tw-train-desktop-widget-202605051830.apk](https://github.com/blues32767/tw-train-desktop-widget/releases/download/v1/tw-train-desktop-widget-206050601755.apk)`
 3. 在 Android 手機上允許「安裝未知來源應用程式」
 4. 點擊 APK 檔案完成安裝
 
