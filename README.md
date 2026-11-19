@@ -12,6 +12,18 @@
 
 > 把台鐵、高鐵班次放在手機桌面，不用開 APP，一眼就知道下一班幾點！🚄
 
+
+
+---
+
+## ☕ 贊助開發者
+
+這款 APP 完全免費、無廣告，純粹是個人興趣開發。  
+如果覺得好用，歡迎請開發者喝杯咖啡，感謝你的支持！❤️
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-贊助-FFDD57?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/blues32767)
+
+---
 ---
 
 ## 📱 APP 介紹
